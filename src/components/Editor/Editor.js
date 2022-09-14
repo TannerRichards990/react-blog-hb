@@ -7,11 +7,11 @@ export default function Editor() {
     <div className="editor">
       <div className="form-control">
         <input name="title" type="text" />
-        <label htmlFor="title">Title</label>
+        <label htmlFor="title">Title:</label>
       </div>
       <div className="form-control">
         <input type="text" />
-        <label>Subtitle</label>
+        <label>Subtitle:</label>
       </div>
       <div className="form-control">
         <select>
@@ -24,7 +24,7 @@ export default function Editor() {
           <option value="roboto-mono">Roboto Mono</option>
           <option value="titillium">Titillium</option>
         </select>
-        <label>Font</label>
+        <label>Font:</label>
       </div>
       <div className="form-control">
         <label>Alignment</label>
@@ -45,7 +45,7 @@ export default function Editor() {
       </div>
       <div className="form-control">
         <textarea style={{ height: '250px' }} />
-        <label>Text</label>
+        <label>Text:</label>
       </div>
     </div>
   );
