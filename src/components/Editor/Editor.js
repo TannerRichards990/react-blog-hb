@@ -9,7 +9,6 @@ export default function Editor({
   setFont,
   subtitle, 
   setSubtitle,
-  align,
   setAlign,
   text,
   setText,
