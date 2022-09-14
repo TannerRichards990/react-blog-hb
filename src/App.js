@@ -1,3 +1,5 @@
+import React from 'react';
+
 import './App.css';
 
 import Header from './components/layout/Header/Header';
@@ -15,3 +17,10 @@ function App() {
 }
 
 export default App;
+
+
+//it displays
+//netlify fix
+//netlify broke?
+//netlify will you work?
+//does it frikin work now?
