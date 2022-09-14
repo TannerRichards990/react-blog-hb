@@ -23,3 +23,4 @@ export default App;
 //netlify fix
 //netlify broke?
 //netlify will you work?
+//does it frikin work now?
